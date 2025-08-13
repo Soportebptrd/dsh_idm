@@ -5,3 +5,4 @@ plotly
 gspread
 wordcloud
 python-dotenv
+xlsxwriter
